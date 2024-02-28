@@ -3,9 +3,9 @@ import styled from 'styled-components';
 export const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 3vh;
   width: 100%;
-  padding-top: 1.5rem;
   height: 100%;
   box-sizing: border-box;
+  justify-content: flex-start;
 `;

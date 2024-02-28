@@ -6,7 +6,6 @@ const {kakao} = window;
 export const KakaoMap = () => {
   useEffect(() => {
     console.log(kakao);
-    console.log(kakao);
 
     const container = document.getElementById('map');
     const options = {
